@@ -29,7 +29,7 @@ cd 03-tokens
 uv run python tokens.py
 ```
 
-> **Note:** You need a [Groq](https://console.groq.com/) API key. Never commit your `.env` file — it is already in `.gitignore`.
+
 
 ## About
 
