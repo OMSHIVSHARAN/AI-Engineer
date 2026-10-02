@@ -4,12 +4,14 @@ Hands-on lessons covering core LLM engineering concepts, from basic API calls to
 
 ## Topics
 
-| #  | Topic                        | Folder                                                      | Key File             |
-| -- | ---------------------------- | ----------------------------------------------------------- | -------------------- |
-| 01 | First LLM API Call           | [01-llm-call](./01-llm-call/)                               | `llm.py`             |
-| 02 | System Role & Temperature    | [02-system-role-temperature](./02-system-role-temperature/)  | `sys_temp.py`        |
-| 03 | Tokens & Usage               | [03-tokens](./03-tokens/)                                   | `tokens.py`          |
-| 04 | Pydantic + JSON Mode         | [04-pydantic-json](./04-pydantic-json/)                     | `json_pydantic.py`   |
+| # | Topic | Folder | Key File |
+|---|---|---|---|
+| 01 | First LLM API Call | [01-llm-call](01-llm-call/) | `llm.py` |
+| 02 | System Role & Temperature | [02-system-role-temperature](02-system-role-temperature/) | `sys_temp.py` |
+| 03 | Tokens & Usage | [03-tokens](03-tokens/) | `tokens.py` |
+| 04 | Pydantic + JSON Mode | [04-pydantic-json](04-pydantic-json/) | `json_pydantic.py` |
+| 05 | Prompt Engineering | [Week 2 Day 1](week2/day1-prompt-engineering/) | `main.py` |
+| 06 | ReAct Agent & Tool Calling | [Week 2 Day 2](week2/day2-reAct/) | `react_chain.py` |
 
 ## Setup
 
